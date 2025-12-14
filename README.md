@@ -1,83 +1,71 @@
-# Hi there, I'm Aditya Damerla 👋
+# Aditya Damerla
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-damerlaaditya-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/damerlaaditya)
-[![Email](https://img.shields.io/badge/Email-adamerla128%40gmail.com-red?style=flat-square&logo=gmail)](mailto:adamerla128@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aditya--damerla128.github.io-green?style=flat-square&logo=github)](https://aditya-damerla128.github.io)
-
-## 🚀 About Me
-
-I'm a **Software Developer** with a Master's in Computer Science from Purdue University. I specialize in building reliable backend services, data pipelines, and developer tools. Currently working on open-source projects involving AI/ML integrations, MCP tool servers, and streaming architectures.
-
-📍 Fort Wayne, IN | Open to relocation  
-🎓 MS Computer Science, Purdue University (May 2025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-damerlaaditya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/damerlaaditya)
+[![Email](https://img.shields.io/badge/Email-adamerla128@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adamerla128@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aditya--damerla128.github.io-000?style=flat&logo=github&logoColor=white)](https://aditya-damerla128.github.io)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ygsu9PBanMaGm6l8Zt2vMiOVbM7fq9F1/view?usp=sharing)
 
 ---
 
-## 🛠️ Technical Skills
+**Software Developer** | MS Computer Science, Purdue University (May 2025)
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-**Data & ML**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+Backend systems, data pipelines, API design. Building production services with Python, TypeScript, FastAPI, and cloud infrastructure.
 
 ---
 
-## 💼 Experience
+## Tech Stack
 
-### Software Development Intern @ Medical Informatics Engineering
-*May 2024 – Present*
-- Built **Ozwell Chatbot** (open-source): Embeddable TypeScript client with JSON-RPC services, MCP tool calls, and SSE streaming
-- Designed **Certus**: Production MCP tool server over OpenFDA with JSON Schema contracts and CI/CD pipelines
-
-### Data Analyst @ Merkle Inc.
-*Aug 2022 – Jul 2023*
-- Built Python/SQL ingestion pipelines for multi-source campaign datasets
-- Authored production SQL transformations for analytics dashboards
+```text
+Languages:      Python, TypeScript, JavaScript, SQL
+Backend:        FastAPI, Node.js, Express, REST, OAuth2/JWT, JSON-RPC, SSE, MCP
+DevOps:         Docker, GitHub Actions, Linux, pytest, Jest
+Cloud:          AWS (EC2/S3), GCP (BigQuery), PostgreSQL
+Data/ML:        pandas, NumPy, scikit-learn, FAISS
+```
 
 ---
 
-## 🔥 Featured Projects
-
-### [Ozwell Chatbot](https://github.com/aditya-damerla128) *(Open Source)*
-Embeddable iframe chatbot with cross-origin JSON-RPC bridge, MCP tool calls, SSE streaming, and Docker/GitHub Actions CI.
-
-### [Certus - MCP Tool Service](https://github.com/aditya-damerla128)
-Production-grade REST API over OpenFDA with JSON Schema validation, pagination, retries/backoff, and structured logging.
-
-### [MedDoc Classifier](https://github.com/aditya-damerla128)
-End-to-end document classification API: OCR → embeddings → FAISS nearest-neighbor search with FastAPI endpoints.
-
----
-
-## 📊 GitHub Stats
+## Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-damerla128&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-damerla128&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aditya-damerla128&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-damerla128&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## Experience
 
-I'm always open to discussing new opportunities, collaborations, or interesting projects.
+| Role | Company | Period |
+|------|---------|--------|
+| Software Development Intern | Medical Informatics Engineering | May 2024 - Present |
+| Data Analyst | Merkle Inc. | Aug 2022 - Jul 2023 |
+| Data Analyst Intern | Ugam Solutions | Jan 2022 - Jun 2022 |
 
-- 📧 **Email:** adamerla128@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/damerlaaditya](https://linkedin.com/in/damerlaaditya)
-- 🌐 **Portfolio:** [aditya-damerla128.github.io](https://aditya-damerla128.github.io)
+---
+
+## Projects
+
+**Ozwell Chatbot** - Embeddable TypeScript client with JSON-RPC bridge, MCP tool calls, SSE streaming. Docker + GitHub Actions CI.
+
+**Certus** - MCP tool server over OpenFDA. JSON Schema validation, pagination, structured logging. Dockerized with CI/CD.
+
+**MedDoc Classifier** - Document classification API: OCR to embeddings to FAISS search. FastAPI endpoints with pytest coverage.
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-damerla128&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Fort Wayne, IN</strong> | Open to relocation | F-1 OPT (STEM extension eligible)
+</p>
