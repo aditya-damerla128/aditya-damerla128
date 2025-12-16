@@ -67,5 +67,5 @@ Data/ML:        pandas, NumPy, scikit-learn, FAISS
 ---
 
 <p align="center">
-  <strong>Fort Wayne, IN</strong> | Open to relocation | F-1 OPT (STEM extension eligible)
+  <strong>Fort Wayne, IN</strong> | <strong>Hyderabad, Telangana, IND</strong>
 </p>
